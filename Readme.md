@@ -879,7 +879,7 @@ npm run dev
 
 Si bien no era requisito el despliegue del sistema en servidores web, se busco dicho despliegue a fin de dar una mejor y completa impletación de dicho sistema.
 
-_Front-End desplegado en: [React dev tools Chrome](https://www.google.com/intl/es-419/chrome/)_
+_Front-End desplegado en: [Heroku](https://www.heroku.com/)_
 
 _Back-End desplegado en: [Heroku](https://www.heroku.com/)_
 
@@ -887,7 +887,9 @@ _Base de datos alojada en: [Mongo Atlas](https://www.mongodb.com/cloud/atlas)_
 
 _Imagenes alojadas en: [React dev tools Chrome](https://www.cloudinary.com/)_
 
-_Server [Back-End](https://supermarket-b.herokuapp.com/)_
+** Server [Back-End](https://supermarket-b.herokuapp.com/) **
+
+** API: "https://supermarket-b.herokuapp.com/api" **
 
 ## Datos a tener en cuenta :warning:
 
