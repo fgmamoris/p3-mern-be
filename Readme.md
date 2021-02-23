@@ -887,6 +887,8 @@ _Base de datos alojada en: [Mongo Atlas](https://www.mongodb.com/cloud/atlas)_
 
 _Imagenes alojadas en: [React dev tools Chrome](https://www.cloudinary.com/)_
 
+_Server [Back-End](https://supermarket-b.herokuapp.com/)_
+
 ## Datos a tener en cuenta :warning:
 
 _El sistema debe contener al menos un usuario Gerente, dado que si se eliminan todos los usuarios de la base de datos, no se va a poder realizar la creación de nuevos usuarios, ya que el metodo POST para la creación de usuarios esta validado por rol de usuario, y token._
